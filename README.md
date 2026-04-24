@@ -1,4 +1,7 @@
-# Web Application Fuzzer -> [Click to View]([url](https://yash-530.github.io/SIH1687/)) 
+# Web Application Fuzzer
+<a href="https://github/Yash-530/SIH1687">
+  <img src="https://shields.io" />
+</a>
 
 ## Overview
 Web applications are essential for online services but are prone to cyber-attacks. This fuzzer automates the discovery and security testing of directories, virtual hosts, API endpoints, URL parameters, custom test cases, and subdomains, ensuring robust security measures.
