@@ -1,4 +1,4 @@
-# Web Application Fuzzer
+# Web Application Fuzzer               ->              https://yash-530.github.io/SIH1687/
 
 ## Overview
 Web applications are essential for online services but are prone to cyber-attacks. This fuzzer automates the discovery and security testing of directories, virtual hosts, API endpoints, URL parameters, custom test cases, and subdomains, ensuring robust security measures.
